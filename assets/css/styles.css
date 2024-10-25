@@ -1,0 +1,135 @@
+.solar{
+    width: 180px;
+    background-color:#0A2D51 ;
+}
+ 
+.d{
+    background-color: green;
+    border-color: green;
+}
+ 
+ 
+.img{
+    width: 20px;
+}
+.h6{
+    margin-top: 40px;
+}
+ 
+.facebook img{
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#card{
+    color: whitesmoke;
+}
+#masde{
+    background-color: #FD1D1D !important;
+    margin-left: 600px;
+    margin-right: 900px;
+    color: whitesmoke !important;
+}
+#footer{
+    background: green;
+}
+#logística img{
+    width: 400px;
+}
+#messenger img{
+    width: 110px;
+    margin-left: 230px;
+}
+.oc{
+    width: 300px;
+}
+.bureau{
+    width: 300px;
+}
+#certificacion{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.recorrido{
+    width: 400px;
+    margin-bottom: 20px;
+}
+#Instalación{
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+.mt{
+    margin-bottom: 50px;
+}
+.mb{
+    margin-bottom: 50px;
+}
+.da{
+    background-color: #FD1D1D;
+    margin-bottom: 20px;
+}
+ 
+#contacto img{
+    width: 600px;
+    margin-bottom: 20px;
+}
+.tamano{
+    font-size: 30px;
+    color: dodgerblue;
+}
+.navbar-toggler{
+    border-color: greenyellow;
+    border-radius: 20px;
+}
+.sos img{
+    width: 370px;
+}
+#AL img{
+    width: 370px;
+}
+#CO img{
+    width: 370px;
+}
+.RE img{
+    width: 370px;
+}
+#uno{
+    background-color: #FD1D1D;
+    margin-right: 100px;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+#dos{
+    background-color: #FD1D1D;
+    margin-right: 100px;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+#tres{
+    background-color: #FD1D1D;
+    margin-right: 100px;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+.c{
+    font-size: 30px;
+}
+.tamaño{
+    font-size: 30px;
+    
+}
+.e{
+    border-left-color: midnightblue;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-right-color: white;
+    border-width: 10px;
+    
+}
+.e:hover{
+    background-color: #ffc654;
+    color: white;
+}
+.i{
+    font-size: 30px;
+}
